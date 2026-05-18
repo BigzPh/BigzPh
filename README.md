@@ -63,7 +63,7 @@ I'm an Android Developer passionate about building well-architected, user-friend
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johncarlozc&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigzPh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
