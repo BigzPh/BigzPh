@@ -71,7 +71,7 @@ I'm an Android Developer passionate about building well-architected, user-friend
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://github.com/johncarlozc"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/BigzPh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <!-- Add your LinkedIn, email, or portfolio below -->
   <!-- <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> -->
 </p>
