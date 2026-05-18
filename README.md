@@ -59,6 +59,7 @@ I'm an Android Developer passionate about building well-architected, user-friend
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BigzPh&show_icons=true&theme=tokyonight" />
+  
 </p>
 
 <p align="center">
